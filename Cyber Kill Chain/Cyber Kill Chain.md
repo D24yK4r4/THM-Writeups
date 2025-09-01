@@ -198,8 +198,7 @@ The traditional Cyber Kill Chain (Lockheed Martin, 2011) helps improve network d
 Focuses mainly on malware delivery and perimeter security, so it misses insider threats ([CISA
 ](https://www.cisa.gov/defining-insider-threats)).
 
-Security gaps exist due to lack of updates and evolving adversary tactics (e.g., changing hashes, IPs).
-
+Security gaps exist due to lack of updates and evolving adversary tactics (e.g., changing hashes, IPs). 
 Modern defenses include AI and advanced algorithms to detect subtle threats.
 
 Recommendation: Use the Kill Chain alongside [MITRE ATT&CK](https://attack.mitre.org/)
